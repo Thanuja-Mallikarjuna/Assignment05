@@ -1,0 +1,11 @@
+<mvc:View displayBlock="true" controllerName="com.ibm.zcproduct01.controller.Detail" height="100%"
+		xmlns:uxap="sap.uxap"
+		xmlns:mvc="sap.ui.core.mvc"
+		xmlns="sap.m"
+		xmlns:f="sap.f"
+		xmlns:form="sap.ui.layout.form">
+
+		<Page>
+
+		</Page>
+</mvc:View>
